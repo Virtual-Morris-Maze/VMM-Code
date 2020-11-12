@@ -1,0 +1,2 @@
+This is a collection of modifictions of the Unity's Standard Asset's Water Shader by Vytek on Github:
+https://github.com/Vytek/WaterVRTest

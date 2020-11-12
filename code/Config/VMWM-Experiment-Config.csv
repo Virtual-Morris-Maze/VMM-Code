@@ -1,0 +1,3 @@
+Run_ID;Pos_Goal_Distance;Pos_Goal_Degree;Goal_Size;Pond_Size;Spatial_Cue_Presence;Time_Threshold;Scripted_Spawn_Points;Spatial_Cue_Visibility;Show_Target_Platform;Show_Fireworks_;Movement_Speed;Wait_Time_Before_Trial;Simple_Skybox;FOV_Degree
+1;0.5;180;2.0;20;1;12000;N,S;NE=1,NW=1,SW=1,SE=1;1;1;1.5;5;0;75
+2;0.2;90;1.5;15;1;12000;;NE=1,NW=0,SW=1,SE=0;0;0;1;3;1;60
